@@ -8,4 +8,4 @@
 ![Alt text](https://github.com/EvelynDestiny/Unity3D_Tanks/blob/master/screenshots/Tanks.jpg)
 <br><br>
 <b>Controls:</b><br><br>(Player 1) <br><br>Forward: up arrow <br><br>Backward: down arrow <br><br>Turn: left or right arrow <br><br>Shoot: enter<br><br>
-(Player 2) <br><br>Forward: up arrow <br><br>Backward: down arrow <br><br>Turn: left or right arrow <br><br>Shoot: enter
+(Player 2) <br><br>Forward: W <br><br>Backward: S <br><br>Turn: A or D <br><br>Shoot: space
