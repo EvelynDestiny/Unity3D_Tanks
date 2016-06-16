@@ -4,7 +4,7 @@
 <b>Class:</b> Computer Science<br>
 <b>Controls:</b>
 (Player 1)</b>
-Forward 'up arrow'</b>
-Backwards 'down arrow'</b>
-Turn 'left or right arrow'</b>
-Shoot 'enter button'</b>
+<b>Forward </b>'up arrow'</b>
+<b>Backwards</b> 'down arrow'</b>
+<b>Turn </b>'left or right arrow'</b>
+<b>Shoot</b> 'enter button'<b>
