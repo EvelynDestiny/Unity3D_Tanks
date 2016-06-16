@@ -1,5 +1,5 @@
 # Unity3D_Tanks
-<b>Norwalk High School</b><b>Project Lead The Way (PLTW) Computer Science</b><br>
+<b>Norwalk High School</b> <b>Project Lead The Way (PLTW) Computer Science</b><br>
 <b>Class:</b> Computer Science Applications (CSA) - 2nd Year (Sophomores)<br>
 <b>Curriculum:</b> Android App Development, Java, XML, Material Design, Google Apps Services, Git/GitHub, etc.<br>
 <b>Project Source:</b> Adapted from Udacity.com (Android Development for Beginners)<br>
