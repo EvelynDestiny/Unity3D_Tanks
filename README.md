@@ -7,4 +7,4 @@
 <b>Example screenshots of our completed Tanks! game.</b><br><br>
 ![Alt text](https://github.com/EvelynDestiny/Unity3D_Tanks/blob/master/screenshots/Tanks.jpg)
 <br><br>
-<b>Controls.</b>
+<b>Controls:</b>
