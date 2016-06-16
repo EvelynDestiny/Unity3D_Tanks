@@ -7,5 +7,8 @@
 <b>Example screenshots of our completed Tanks! game.</b><br><br>
 ![Alt text](https://github.com/EvelynDestiny/Unity3D_Tanks/blob/master/screenshots/Tanks.jpg)
 <br><br>
-<b>Controls:</b>
-Player 1 
+<b>Controls:</b> 
+<b>
+<b>(Player 1)</b> Forward: up arrow Backward: down arrow Turn: left or right arrow Shoot: enter<br>
+<b>
+<b>(Player 2)</b> Forward: up arrow Backward: down arrow Turn: left or right arrow Shoot: enter
