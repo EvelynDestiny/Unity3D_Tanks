@@ -8,6 +8,7 @@
 <b>Backwards</b> :down arrow</b>
 <b>Turn </b>:left or right arrow</b>
 <b>Shoot</b> :enter<b>
+<b>Controls:</b>
 (Player 2)</b>
 <b>Forward </b>: W</b>
 <b>Backwards</b> : S</b>
